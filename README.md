@@ -11,4 +11,4 @@ I have the lab code for both the Data Analysis with Python, Data Visualization w
 With this knowledge, you can understand about the topics being taught more effectively. 
 
 ---
-Have a good one with this
+Have a good one with this 👍👨‍💻
