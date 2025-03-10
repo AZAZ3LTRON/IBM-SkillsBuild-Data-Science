@@ -1,4 +1,4 @@
-# IBM-SkillsBuild-Data-Science
+# IBM SkillsBuild Applied Data Science Lab
 
 This repo was designed by me to help those whose are into Data Science with Python and sought to do the IBM SkillsBuild Course on the topic. 
 Whilst I was learning and working on the course, I noticed that they were a lot of problem with their notebooks and many of them weren't functional enough to help me so I sought out to fix them personally and help other who might have the same problems
